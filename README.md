@@ -1,5 +1,3 @@
-# Innowise Lab Internship: Level 1: Google Speech
-
 This project was created with React and Next.js
 
 [Demo](https://vitali-kruchkou.github.io/Innowise-Lab-Internship-Level-1-Google-Speech/)
