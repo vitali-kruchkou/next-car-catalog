@@ -1,0 +1,101 @@
+{
+    "cars": [
+        {
+            "id":1,
+            "name": "Toyota Camry",
+            "price": "24970",
+            "image": "http://localhost:4200/images/Toyota_Camry.jpg"
+        },
+        {
+            "id":2,
+            "name": "Honda Civic",
+            "price": "24970",
+            "image": "http://localhost:4200/images/Honda_Civic.jpg"
+        },
+        {
+            "id":3,
+            "name": "Ford Mustang",
+            "price": "24970",
+            "image": "http://localhost:4200/images/Ford_Mustang.jpg"
+        },
+        {
+            "id":4,
+            "name": "Chevrolet Corvette",
+            "price": "24970",
+            "image": "http://localhost:4200/images/Chevrolet_Corvet.jpg"
+        },
+        {
+            "id":5,
+            "name": "Tesla Model S",
+            "price": "24970",
+            "image": "http://localhost:4200/images/Tesla_Model_S.jpg"
+        },
+        {
+            "id":6,
+            "name": "BMW 3 Series",
+            "price": "24970",
+            "image": "http://localhost:4200/images/BMW_3.jpg"
+        },
+        {
+            "id":7,
+            "name": "Audi A4",
+            "price": "24970",
+            "image": "http://localhost:4200/images/Audi_A4.jpg"
+        },
+        {
+            "id":8,
+            "name": "Mercedess-Benz C-Class",
+            "price": "24970",
+            "image": "http://localhost:4200/images/Mercedes_Benz_C.jpg"
+        },
+        {
+            "id":9,
+            "name": "BMW M4",
+            "price": "24970",
+            "image": "http://localhost:4200/images/BMW_M4.jpg"
+        },
+        {
+            "id":10,
+            "name": "BMW M4 Competition",
+            "price": "24970",
+            "image": "http://localhost:4200/images/BMW_M4_Competition.jpg"
+        },
+        {
+            "id":11,
+            "name": "Audi RS6",
+            "price": "24970",
+            "image": "http://localhost:4200/images/Audi_RS6.jpg"
+        },
+        {
+            "id":12,
+            "name": "Audi RS7",
+            "price": "24970",
+            "image": "http://localhost:4200/images/Audi_RS7.jpg"
+        },
+        {
+            "id":13,
+            "name": "Nissan Silvia S15",
+            "price": "24970",
+            "image": "http://localhost:4200/images/Nissan_Silvia_S15.jpg"
+        },
+        {
+            "id":14,
+            "name": "Nissan Skyline R34",
+            "price": "24970",
+            "image": "http://localhost:4200/images/Nissan-Skyline-GTR-R34-4.jpg"
+        },
+        {
+            "id":15,
+            "name": "Toyota Supra 98",
+            "price": "24970",
+            "image": "http://localhost:4200/images/Toyota_Supra_98.jpg"
+        },
+        {
+            "id":16,
+            "name": "Toyota Mark II ",
+            "price": "24970",
+            "image": "http://localhost:4200/images/Toyota_Mark_II.jpg"
+        }
+    ]
+    
+}

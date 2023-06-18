@@ -1,0 +1,20 @@
+.item {
+    border-radius: 10px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    >h2 {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    >small {
+        font-size: 16px;
+        color: green;
+    }
+    >a {
+        color: blue;
+    }
+}
